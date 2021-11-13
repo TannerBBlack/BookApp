@@ -1,0 +1,26 @@
+{
+  "name": "bookapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TannerBBlack/BookApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TannerBBlack/BookApp/issues"
+  },
+  "homepage": "https://github.com/TannerBBlack/BookApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.18.0"
+  }
+}
